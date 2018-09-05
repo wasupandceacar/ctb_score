@@ -21,3 +21,6 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+
+.idea
+__pycache__/get.cpython-35.pyc
